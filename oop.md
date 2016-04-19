@@ -1,5 +1,4 @@
-Terminologies
--------------
+###Terminologies
 - class, object (and the difference between the two)
 - instantiation
 - method (as opposed to, say, a C function)
@@ -24,16 +23,14 @@ Terminologies
 - method signatures (what's included in one)
 - method visibility (e.g. public/private/other)
 
-For the OO-design question, describe
-------------------------------------
+###For the OO-design question, describe
 - What classes they would define.
 - What methods go in each class (including signatures).
 - What the class constructors are responsible for.
 - What data structures the class will have to maintain.
 - Whether any Design Patterns are applicable to this problem.
 
-Design questions
-----------------
+###Design questions
 - Design a deck of cards that can be used for different card game applications.
 - Model the Animal kingdom as a class system, for use in a Virtual Zoo program.
 - Create a class design to represent a filesystem.
@@ -44,6 +41,5 @@ Design questions
 
 <br>
 
-Sources
--------
+####Sources
 - https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions
